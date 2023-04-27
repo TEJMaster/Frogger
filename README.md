@@ -14,7 +14,7 @@ This project utilizes the Keyboard and MMIO Simulator for processing keyboard in
 
 When no keys are pressed, the frog remains stationary at its current position on the screen. If the frog's movement, triggered by a key press, causes it to collide with a vehicle on the lower half of the screen or enter the water in the upper half, the frog will be reset to the safe row at the bottom of the screen.
 
-# Additional Features
+# Additional Features Implemented
 
 - Display the number of lives remaining. 
 - After final player death, display game over/retry screen. Restart the game if the “retry” option is chosen.
